@@ -3,7 +3,7 @@ Free to use
 
 Datei Organisierer
 
-Ein Python-Skript das den Downloads-Ordner automatisch 
+Ein Python Skript das den Downloads Ordner automatisch 
 aufräumt und Dateien nach Typ in Unterordner sortiert.
 
 Was es macht
